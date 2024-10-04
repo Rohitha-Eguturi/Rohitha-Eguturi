@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analysis, Data Visualization and Machine Learning.**
 
-- 🌱 I’m currently learning **Data Science ,Machine Learning, NLP**
+- 🌱 I’m currently learning ** Full Stack Development ,Data Science ,Machine Learning, NLP**
 
 - 💬 Ask me about **Anything**
 
