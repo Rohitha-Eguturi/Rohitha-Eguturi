@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science ,Machine Learning, NLP**
 
-- 💬 Ask me about **MYSQL, Python,Power BI**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rohithaeguturi123@gmail.com**
 
